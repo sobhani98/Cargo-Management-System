@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sobhani98/Cargo-Management-System/main/assets/logo.png" width="200" alt="Project Logo">
+</p>
+
 # Cargo-Management-System
 Cargo Management System Project, developed using J2EE architecture. This is a web- based application designed to computerize the various operations in cargo agencies. It aims at managing and implementing activities and plans of a cargo company. In order to reduce the manual work and create a reliable working platform, computerized cargo management system is an essential component for all cargo agencies these days. The complete database and other necessary details of Cargo management system can be viewed. In order to transport goods or products from one place to other, cargo system is important. It is fast, easy and reliable commercial means for transportation of goods and industrial products. This proposed project is simply an attempt to generate an application to automate different management activities in cargo business.
 
